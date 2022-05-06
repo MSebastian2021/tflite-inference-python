@@ -14,4 +14,5 @@ This was generated using the saved model in the Diversity repo.
 
 # Resources
 https://www.tensorflow.org/lite/guide/inference
+
 https://github.com/JerryKurata/TFlite-object-detection
