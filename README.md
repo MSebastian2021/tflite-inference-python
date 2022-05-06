@@ -1,6 +1,6 @@
 # TensorFlow Lite Python image classification demo
 
-The tflite model used in this inference was created using the <a href="https://www.tensorflow.org/lite/convert#cmdline>command line tflite converter</a>, with the following options:
+The tflite model used in this inference was created using the <a href="https://www.tensorflow.org/lite/convert#cmdline">command line tflite converter</a>, with the following options:
 
 ```
 --input_shapes=4,640,640,3 \
@@ -11,3 +11,7 @@ The tflite model used in this inference was created using the <a href="https://w
 ```
 
 This was generated using the saved model in the Diversity repo.
+
+# Resources
+https://www.tensorflow.org/lite/guide/inference
+https://github.com/JerryKurata/TFlite-object-detection
